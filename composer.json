@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name" : "Transportas",
+    "description" : "OOP pirma užduotis",
+    "psr-4" : {
+      "TRANSPORT\\" : "models"
+    }
+  }
+}
